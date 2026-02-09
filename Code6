@@ -1,0 +1,8 @@
+ <section>
+            <h3><i><u>Approche historique:</u></i> </h3>
+            <video src="video.mp4" height="400" controls class="conteneur_video"></video>
+        </section>
+        <section>
+            <h2 class="h2"><b><u>La naissance du HTML et du Web</u></b></h2>
+            <p>En 1989, alors qu’il est au CERN, Tim Berners-Lee propose un projet visant à faciliter le partage d’informations entre chercheurs. Il imagine alors un système reposant sur :</p>
+        </section >
