@@ -1,0 +1,11 @@
+<p>En 1991, le premier site web est mis en ligne. Le HTML devient rapidement le langage de base du Web, permettant de créer et de relier des pages entre elles grâce aux liens hypertextes.
+            </p>
+        <br><br>
+        <footer>
+            <p class="footer"><b>&copy; 2026 Groupe 9</b></p>
+        </footer>
+    </main>
+
+</body>
+
+</html>
