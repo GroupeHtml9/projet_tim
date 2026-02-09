@@ -1,0 +1,11 @@
+
+.conteneur_tableau{
+    margin-left: 100px;
+}
+.conteneur_video{
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.footer{
+    text-align: right;
+}
